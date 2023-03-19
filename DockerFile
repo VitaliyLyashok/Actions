@@ -18,3 +18,4 @@ RUN npm run build
 
 # Команда, яка запускає додаток
 CMD ["npm", "start"]
+# start
